@@ -1,0 +1,16 @@
+.App {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.button{
+  padding: 10px 10px;
+  text-decoration: none;
+  border-radius: 12px;
+  border: none;
+}
+.button:hover{
+  background: brown;
+  color: aliceblue;
+}

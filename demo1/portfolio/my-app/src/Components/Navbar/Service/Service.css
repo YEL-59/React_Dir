@@ -1,0 +1,30 @@
+.S-img img{
+    transform: scale(.1);
+    position: absolute;
+    top: -260px;
+    left: -255px;
+}
+
+.S-card{
+    width:200px ;
+    height: 200px;
+  
+    position: relative;
+    left:100px ;
+    border-left: 2px solid wheat;
+    margin-bottom: 20px;
+
+}
+.S-text{
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+
+.S-content{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2rem;
+    line-height: 20px;
+}

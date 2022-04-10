@@ -1,0 +1,29 @@
+.A-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    top: -120px;
+}
+.A-left{
+    flex: 1;
+}
+.A-left span{
+font-size: 1.5rem;
+font-weight: bold;
+cursor: pointer;
+}
+.A-left p{
+    font-size: 2.5rem;
+    font-weight: bold;
+    cursor: pointer;
+    }
+.A-right{
+    flex: 1;
+}
+.A-right p{
+    font-size: 1.5rem;
+    line-height: 2rem;
+    cursor: pointer;
+    
+    }
